@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://trust.xtype.io/
+platform: Vanta
+certifications:
+  - GDPR
+  - CCPA
+notes: >-
+  Vanta-hosted trust center (page title "xtype Trust Center"); its
+  certification list is rendered client-side and was not extractable
+  without JavaScript. The company security page states xtype is
+  "compliant with GDPR, CCPA, and applicable privacy laws" and describes
+  annual third-party network and application penetration tests, annual
+  risk assessments, SSO/2FA account protection, vendor monitoring,
+  audit logging, and incident response.
+evidence:
+  - source: https://trust.xtype.io/
+    kind: trust-center
+    keywords:
+      - xtype Trust Center
+      - vanta
+  - source: https://www.xtype.io/security
+    kind: security-page
+    keywords:
+      - GDPR
+      - CCPA
+      - penetration test
+      - risk assessment

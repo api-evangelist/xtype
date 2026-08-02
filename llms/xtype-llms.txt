@@ -1,0 +1,31 @@
+# xtype
+
+> xtype is an automated governance platform for ServiceNow, giving enterprises visibility, control, orchestration, and compliance across every instance in their ServiceNow estate — tracking every change, access decision, and configuration and enforcing policy in real time. Products include xtype Enterprise (full governance platform) and xtype View (free platform-health insights). Backed by ServiceNow Ventures, Columbia Capital, Norwest Venture Partners, Inner Loop Capital, and SaaS Venture Capital; offices in Covina (CA), Tel Aviv, and Vienna. xtype publishes no public developer API: api.xtype.io is a live Kong gateway with no public routes, and support runs through a gated ServiceNow CSM portal.
+
+## Company
+
+- [Website](https://www.xtype.io): ServiceNow governance platform — visibility, control, orchestration, compliance
+- [About](https://www.xtype.io/about): Leadership, offices, investors
+- [xtype Enterprise](https://www.xtype.io/xtype-enterprise): Full governance product
+- [Product tour](https://www.xtype.io/product-tour): Guided walkthrough
+- [Blog](https://www.xtype.io/blog): Company blog
+- [Case studies](https://www.xtype.io/case-studies): Customer stories
+- [Support portal](https://xtype.service-now.com/csm): ServiceNow CSM support (login required)
+
+## Security
+
+- [Security](https://www.xtype.io/security): Practices, GDPR/CCPA compliance, security@xtype.io (24-hour response)
+- [Trust Center](https://trust.xtype.io/): Vanta-hosted trust center
+
+## Legal
+
+- [Terms](https://www.xtype.io/terms)
+- [Privacy Policy](https://www.xtype.io/privacy-policy)
+- [DPA](https://www.xtype.io/dpa)
+
+## Catalog artifacts
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/xtype/refs/heads/main/apis.yml): APIs.json profile for xtype
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/xtype/refs/heads/main/security/xtype-domain-security.yml): Probed TLS/HSTS/SPF/DMARC posture
+- [Vulnerability disclosure](https://raw.githubusercontent.com/api-evangelist/xtype/refs/heads/main/security/xtype-vulnerability-disclosure.yml): security@ contact and evidence
+- [Trust center](https://raw.githubusercontent.com/api-evangelist/xtype/refs/heads/main/security/xtype-trust-center.yml): Certifications and evidence

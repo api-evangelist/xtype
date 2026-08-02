@@ -1,0 +1,27 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of xtype.io and api.xtype.io
+hosts:
+  - host: https://xtype.io
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /.well-known/openid-configuration
+        status: 404
+      - path: /.well-known/oauth-authorization-server
+        status: 404
+      - path: /.well-known/api-catalog
+        status: 404
+      - path: /.well-known/ai-plugin.json
+        status: 404
+      - path: /llms.txt
+        status: 404
+  - host: https://api.xtype.io
+    notes: Live Kong API gateway (returns Kong "no Route matched" JSON); no public routes or discovery documents exposed.
+    documents:
+      - path: /.well-known/security.txt
+        status: 404
+      - path: /openapi.json
+        status: 404
+      - path: /swagger.json
+        status: 404
