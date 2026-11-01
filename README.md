@@ -64,6 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Xtype is a company surfaced as a portfolio company of norwest-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+xtype is an automated governance platform for ServiceNow, giving enterprises visibility, control, orchestration, and compliance across every instance in their ServiceNow estate — tracking changes, access decisions, and configurations and enforcing policy in real time. Products include xtype Enterprise and the free xtype View. The company is backed by ServiceNow Ventures, Columbia Capital, Norwest Venture Partners, Inner Loop Capital, and SaaS Venture Capital, with offices in Covina (CA), Tel Aviv, and Vienna. xtype publishes no public developer API: api.xtype.io is a live Kong gateway with no publicly documented routes.
 
-Backed by: norwest-venture-partners — https://xtype.io
+**Areas:** ServiceNow · Governance · Compliance · Change Management · DevOps · ITSM · Multi-Instance Management
+
+## Xtype on APIs.io
+
+Everything profiled for Xtype is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/xtype/](https://apis.io/providers/xtype/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Xtype Domain Security](https://apis.io/security/xtype/xtype-domain-security/)
+- [Xtype Trust Center](https://apis.io/security/xtype/xtype-trust-center/)
+- [Xtype Vulnerability Disclosure](https://apis.io/security/xtype/xtype-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.xtype.io)
+- [Support](https://xtype.service-now.com/csm)
+- [Blog](https://www.xtype.io/news)
+- [Security](https://www.xtype.io/security)
+- [Compliance](https://www.xtype.io/security)
+- [Terms of service](https://www.xtype.io/terms)
+- [Privacy policy](https://www.xtype.io/privacy-policy)
+- [GitHub](https://github.com/xtype-io)
+
+## API Evangelist rating
+
+**Kin Score 17.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/xtype/](https://apis.io/providers/xtype/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Xtype: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/xtype/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
